@@ -40,7 +40,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #2980b9;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -89,7 +89,7 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav > .active > a {
-	background: #c0392b
+	background: #f1c40f
 }
 
 .navbar-inverse .navbar-brand {
@@ -100,7 +100,7 @@ a:after {
 }
 
 .navbar-inverse .navbar-brand i {
-	color: #c0392b;
+	color: #f1c40f;
 	font-size: 22px;
 	letter-spacing: 1px;
 }
@@ -190,7 +190,7 @@ a:after {
 
 /* Red Wrap */
 #r {
-	background: #c0392b;
+	background: #f1c40f;
 	padding-top: 35px;
 	padding-bottom: 35px;
 }
@@ -237,7 +237,7 @@ a:after {
 }
 
 #f i:hover {
-	color: #c0392b;
+	color: #f1c40f;
 }
 
 /****** SECTIONS *****/
@@ -251,7 +251,7 @@ a:after {
 }
 
 .w i {
-	color: #c0392b;
+	color: #f1c40f;
 	font-size: 30px;
 }
 
@@ -274,7 +274,7 @@ a:after {
 }
 
 .desc i {
-	color: #c0392b;
+	color: #f1c40f;
 	font-size: 12px;
 	padding: 5px;
 }
@@ -400,7 +400,7 @@ a:after {
 }
 
 .pricing-option .pricing-signup:hover {
-    background: #c0392b;
+    background: #f1c40f;
 }
 
 

@@ -14,6 +14,11 @@ a{
 .clr{
     clear: both;
 }
+
+.align-vertical{
+
+    vertical-align: middle;
+}
 /* Header Style */
 .header{
     font-family: 'Arial Narrow', Arial, sans-serif;
@@ -21,18 +26,18 @@ a{
     bottom: 0px;
     left: 0px;
     width: 100%;
-    height: 25px;
+    height: 50px;
     line-height: 24px;
     font-size: 11px;
     background: #000;
     opacity: 0.9;
     z-index: 20;
+    background: #101010;
 }
 .header a{
     padding: 5px 10px;
     letter-spacing: 1px;
     color: #fff;
-    text-align: right;
 }
 .header a:hover{
     color: #ddd;
@@ -76,6 +81,7 @@ a{
     width: 2546px;
 }
 .ib-main a{
+    color: #fff;
     float: left;
     width: 210px;
     height: 210px;
@@ -267,4 +273,10 @@ a{
     -webkit-border-radius: 10px;
     border-radius: 10px 10px 10px 10px;
     opacity: 0.9;
+}
+.aligncenter {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
